@@ -1,10 +1,1 @@
-pipeline{
-    agent any
-    stages{
-        stage("hello"){
-            steps{
-                echo "welcome to jenkins pipeline"
-            }
-        }
-    }
-}
+<h1> hii devops project </h1>
